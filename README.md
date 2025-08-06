@@ -1,4 +1,6 @@
 > 🌟 ETH Zurich Portfolio Project – Embedded Systems + IoT + Environmental Tech
+
+
 🌱 Smart Garden Monitor – IoT-Based Automated Irrigation System
 An affordable and intelligent garden monitoring system using Arduino, sensors, and Bluetooth.
 📌 Project Overview
